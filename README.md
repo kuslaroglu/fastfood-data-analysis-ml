@@ -1,6 +1,6 @@
-# Data Analysis & Machine Learning Project — Python
+# Data Analysis & Machine Learning Project — R
 
-This project includes data preprocessing, exploratory data analysis, and machine learning modeling using Python in a Jupyter Notebook.
+This project includes data preprocessing, exploratory data analysis, and machine learning modeling using R in a Jupyter Notebook.
 
 ## Content
 - Data cleaning and preprocessing
@@ -8,7 +8,7 @@ This project includes data preprocessing, exploratory data analysis, and machine
 - Machine learning models and evaluation
 
 ## Tools
-- Python
+- R
 - Jupyter Notebook
 - pandas, numpy, scikit-learn, matplotlib
 
